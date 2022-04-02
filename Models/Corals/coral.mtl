@@ -1,0 +1,9 @@
+# Exported from 3D Builder
+
+newmtl mtl_coral_reef_b41_0
+Kd 1.000000 1.000000 1.000000
+map_Kd coral .png
+
+newmtl mtl_coral_reef_a18467_0
+Kd 1.000000 1.000000 1.000000
+map_Kd coral.png
